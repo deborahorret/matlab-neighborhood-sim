@@ -8,3 +8,8 @@ neighbors (including diagonals) and count up how many hostile and peaceful neigh
 have. If they have more hostile than peaceful neighbors, then that person also become hostile. If
 they have a majority of peaceful neighbors, then they become peaceful. If they have an equal
 number of hostile and peaceful neighbors, then they don’t change. 
+
+
+
+
+
